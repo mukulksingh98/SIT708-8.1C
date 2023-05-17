@@ -1,4 +1,4 @@
-package com.tamim.itube;
+package com.mks.itube;
 
 import org.junit.Test;
 
